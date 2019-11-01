@@ -12,5 +12,5 @@ See the docs for more information.
 - Tremolo: This is a set of stereo tremolo effects.
 These are original is concept and implementation. 
 
-Any and all comments are welcome. Mostly, I hope someone finds these usful and fun.
+Any and all comments are welcome. Mostly, I hope someone finds these useful and fun.
 
